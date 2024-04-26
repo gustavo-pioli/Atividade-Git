@@ -10,6 +10,7 @@ Atividade Git - Progress Report 1
 - Criação de Branch (Branch-1)
 - Commit de arquivo "Implementação na Branch-1
 - Utilização de Markdown no arquivo README.md na main
+- Merge da Branch-1
 
 ## Atividade Markdown
 
